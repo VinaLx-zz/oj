@@ -13,9 +13,12 @@ contain codes and comments on the way to tricky place
 - 46. Permutations
 - 53. Maximum Subarray
 - 62. Unique Path
+- 64. Minimum Path Sum
 - 67. Add Binary
+- 91. Decode Ways
 - 114. Flatten Binary Tree to Linked List
 - 118. Pascal's Triangle
+- 120. Triangle
 - 152. Maximum Product Subarray
 - 167. Two Sum II - Input array is sorted
 - 467. Unique Substrings in Wraparound String
