@@ -21,5 +21,6 @@ contain codes and comments on the way to tricky place
 - 120. Triangle
 - 152. Maximum Product Subarray
 - 167. Two Sum II - Input array is sorted
+- 338. Counting Bits
 - 467. Unique Substrings in Wraparound String
 - 474. Ones and Zeroes
