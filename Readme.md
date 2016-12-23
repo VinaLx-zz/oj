@@ -22,5 +22,8 @@ contain codes and comments on the way to tricky place
 - 152. Maximum Product Subarray
 - 167. Two Sum II - Input array is sorted
 - 338. Counting Bits
+- 368. Largest Divisible Subset
+- 376. Wiggle Subsequence
 - 467. Unique Substrings in Wraparound String
 - 474. Ones and Zeroes
+
