@@ -6,7 +6,10 @@ contain codes and comments on the way to tricky place
 ## Leetcode
 
 - 3. Longest Substring Without Repeating Characters
+- 5. Longest Palindromic Substring
+- 6. ZigZag Conversion
 - 11. Container With Most Water
+- 14. Longest Common Prefix
 - 22. Generate Parentheses
 - 24. Swap Nodes in Pairs
 - 39. Combination Sum
