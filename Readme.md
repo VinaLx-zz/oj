@@ -8,6 +8,7 @@ contain codes and comments on the way to tricky place
 - 3. Longest Substring Without Repeating Characters
 - 11. Container With Most Water
 - 22. Generate Parentheses
+- 24. Swap Nodes in Pairs
 - 39. Combination Sum
 - 43. Multiply String
 - 46. Permutations
