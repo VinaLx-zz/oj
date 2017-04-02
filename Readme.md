@@ -10,6 +10,8 @@ contain codes and comments on the way to tricky place
 - 6. ZigZag Conversion
 - 11. Container With Most Water
 - 14. Longest Common Prefix
+- 15. 3 Sum
+- 16. 3 Sum Closest
 - 22. Generate Parentheses
 - 24. Swap Nodes in Pairs
 - 39. Combination Sum
