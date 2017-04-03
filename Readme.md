@@ -12,6 +12,8 @@ contain codes and comments on the way to tricky place
 - 14. Longest Common Prefix
 - 15. 3 Sum
 - 16. 3 Sum Closest
+- 17. Letter Combinations of a Phone Number
+- 18. 4Sum
 - 22. Generate Parentheses
 - 24. Swap Nodes in Pairs
 - 39. Combination Sum
