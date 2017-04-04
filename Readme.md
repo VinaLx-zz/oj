@@ -13,9 +13,10 @@ contain codes and comments on the way to tricky place
 - 15. 3 Sum
 - 16. 3 Sum Closest
 - 17. Letter Combinations of a Phone Number
-- 18. 4Sum
+- 18. 4 Sum
 - 22. Generate Parentheses
 - 24. Swap Nodes in Pairs
+- 31. Next Permutation
 - 39. Combination Sum
 - 43. Multiply String
 - 46. Permutations
