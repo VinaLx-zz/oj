@@ -6,6 +6,7 @@ contain codes and comments on the way to tricky place
 ## Leetcode
 
 - 3. Longest Substring Without Repeating Characters
+- 4. Median of Two Sorted Arrays
 - 5. Longest Palindromic Substring
 - 6. ZigZag Conversion
 - 11. Container With Most Water
@@ -15,7 +16,9 @@ contain codes and comments on the way to tricky place
 - 17. Letter Combinations of a Phone Number
 - 18. 4 Sum
 - 22. Generate Parentheses
+- 23. Merge K Sorted Lists
 - 24. Swap Nodes in Pairs
+- 25. Reverse Nodes in k Group
 - 31. Next Permutation
 - 39. Combination Sum
 - 43. Multiply String
