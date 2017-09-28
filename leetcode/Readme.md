@@ -22,6 +22,7 @@ contain codes and comments on the way to tricky place
 - 25 Reverse Nodes in k Group
 - 31 Next Permutation
 - 39 Combination Sum
+- 42 Trapping Rain Water
 - 43 Multiply String
 - 44 Wildcard Matching
 - 46 Permutations
@@ -29,6 +30,7 @@ contain codes and comments on the way to tricky place
 - 62 Unique Path
 - 64 Minimum Path Sum
 - 67 Add Binary
+- 84 Largest Rectangle in Histogram
 - 91 Decode Ways
 - 97 Interleaving String
 - 114 Flatten Binary Tree to Linked List
