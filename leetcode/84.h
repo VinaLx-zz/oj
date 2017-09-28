@@ -18,7 +18,7 @@ public:
             count += stk.top().second;
             result = max(result, stk.top().first * count);
         }
-        stk.push({cur, count});
+        stk.push({cur, count + 1});
         return result;
     }
     int largestRectangleArea(vector<int>& heights) {
@@ -30,7 +30,7 @@ public:
                 stk.push({cur, 1});
                 continue;
             }
-            result = max(result, reduce(stk, 0));
+            result = max(result, reduce(stk, cur));
         }
         return max(result, reduce(stk, 0));
     }
