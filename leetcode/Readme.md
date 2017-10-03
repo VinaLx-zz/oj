@@ -21,6 +21,7 @@ contain codes and comments on the way to tricky place
 - 24 Swap Nodes in Pairs
 - 25 Reverse Nodes in k Group
 - 31 Next Permutation
+- 37 Sudoku Solver
 - 39 Combination Sum
 - 42 Trapping Rain Water
 - 43 Multiply String
