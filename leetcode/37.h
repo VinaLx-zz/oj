@@ -53,19 +53,18 @@ class Solution {
             }
         }
     }
-    bool search(Board &board, XY xy = {-1, -1}) {
-        if (xy.first == -1) {
-            int max_disabled = 0;
-            for (int i = 0; i < 9; ++i) {
-                for (int j = 0; j < 9; ++j) {
-                    if (board[i][j] != '.')
-                        continue;
-                    auto &d = disabled[i][j];
-                    auto c = d.count();
-                    if (c > max_disabled) {
-                        max_disabled = c;
-                        xy = {i, j};
-                    }
+    bool search(Board &board) {
+        XY xy(-1, -1);
+        int max_disabled = 0;
+        for (int i = 0; i < 9; ++i) {
+            for (int j = 0; j < 9; ++j) {
+                if (board[i][j] != '.')
+                    continue;
+                auto &d = disabled[i][j];
+                auto c = d.count();
+                if (c > max_disabled) {
+                    max_disabled = c;
+                    xy = {i, j};
                 }
             }
         }
@@ -86,23 +85,17 @@ class Solution {
     }
     bool search(Board &board, int x, int y, int n) {
         vector<XY> disable_affected;
-        int max_disabled = 0;
-        XY next(-1, -1);
         for (const auto &xy : related[x][y]) {
             related[xy.first][xy.second].erase({x, y});
             auto &d = disabled[xy.first][xy.second];
             if (!d.test(n)) {
                 d.set(n);
                 disable_affected.push_back(xy);
-                if (d.count() > max_disabled) {
-                    max_disabled = d.count();
-                    next = xy;
-                }
             }
         }
         board[x][y] = '1' + n;
 
-        if (search(board, next)) {
+        if (search(board)) {
             return true;
         }
 
