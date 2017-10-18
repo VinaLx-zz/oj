@@ -31,6 +31,7 @@ contain codes and comments on the way to tricky place
 - 62 Unique Path
 - 64 Minimum Path Sum
 - 67 Add Binary
+- 72 Edit Distance
 - 84 Largest Rectangle in Histogram
 - 91 Decode Ways
 - 97 Interleaving String
