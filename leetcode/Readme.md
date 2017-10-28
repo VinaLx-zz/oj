@@ -38,6 +38,8 @@ contain codes and comments on the way to tricky place
 - 114 Flatten Binary Tree to Linked List
 - 118 Pascal's Triangle
 - 120 Triangle
+- 128 Longest Consecutive Sequence
+- 145 Binary Tree Postorder Traversal
 - 152 Maximum Product Subarray
 - 167 Two Sum II - Input array is sorted
 - 338 Counting Bits
