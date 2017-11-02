@@ -23,6 +23,7 @@ contain codes and comments on the way to tricky place
 - 31 Next Permutation
 - 37 Sudoku Solver
 - 39 Combination Sum
+- 41 First Missing Positive
 - 42 Trapping Rain Water
 - 43 Multiply String
 - 44 Wildcard Matching
@@ -42,6 +43,7 @@ contain codes and comments on the way to tricky place
 - 145 Binary Tree Postorder Traversal
 - 152 Maximum Product Subarray
 - 167 Two Sum II - Input array is sorted
+- 329 Longest Increasing Path in a Matrix
 - 338 Counting Bits
 - 368 Largest Divisible Subset
 - 376 Wiggle Subsequence
