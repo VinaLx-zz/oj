@@ -17,4 +17,4 @@ myMinimum :: (Ord a, Foldable t) => t a -> Maybe a
 myMinimum = get . foldMap (MinMaybe . Just)
 
 myFoldr :: Foldable t => (a -> b -> b) -> b -> t a -> b
-myFoldr f z = ($ z) . appEndo . foldMap (Endo . (f $))
+myFoldr f z = ($ z) . appEndo . foldMap (Endo . f)
