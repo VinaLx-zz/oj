@@ -21,6 +21,7 @@ contain codes and comments on the way to tricky place
 - 24 Swap Nodes in Pairs
 - 25 Reverse Nodes in k Group
 - 31 Next Permutation
+- 32 Longest Valid Parenthesis
 - 37 Sudoku Solver
 - 39 Combination Sum
 - 41 First Missing Positive
@@ -31,14 +32,17 @@ contain codes and comments on the way to tricky place
 - 53 Maximum Subarray
 - 62 Unique Path
 - 64 Minimum Path Sum
+- 65 Valid Number
 - 67 Add Binary
 - 72 Edit Distance
 - 84 Largest Rectangle in Histogram
 - 91 Decode Ways
 - 97 Interleaving String
 - 114 Flatten Binary Tree to Linked List
+- 115 Distinct Subsequences
 - 118 Pascal's Triangle
 - 120 Triangle
+- 124 Binary Tree Maximum Path Sum
 - 128 Longest Consecutive Sequence
 - 145 Binary Tree Postorder Traversal
 - 152 Maximum Product Subarray
