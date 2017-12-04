@@ -50,7 +50,9 @@ contain codes and comments on the way to tricky place
 - 145 Binary Tree Postorder Traversal
 - 152 Maximum Product Subarray
 - 167 Two Sum II - Input array is sorted
+- 282 Expression Add Operators
 - 329 Longest Increasing Path in a Matrix
+- 330 Patching Array
 - 338 Counting Bits
 - 368 Largest Divisible Subset
 - 376 Wiggle Subsequence
