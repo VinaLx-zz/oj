@@ -47,6 +47,7 @@ contain codes and comments on the way to tricky place
 - 124 Binary Tree Maximum Path Sum
 - 128 Longest Consecutive Sequence
 - 132 Parlindrome Partitioning II
+- 134 Candy
 - 145 Binary Tree Postorder Traversal
 - 152 Maximum Product Subarray
 - 167 Two Sum II - Input array is sorted
