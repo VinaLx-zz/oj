@@ -36,6 +36,7 @@ contain codes and comments on the way to tricky place
 - 67 Add Binary
 - 68 Text Justification
 - 72 Edit Distance
+- 76 Minimum Window Substring
 - 84 Largest Rectangle in Histogram
 - 91 Decode Ways
 - 97 Interleaving String
